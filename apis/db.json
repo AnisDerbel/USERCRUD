@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "Tommy Hilfiger",
+    "gender": "male",
+    "email": "test@pvh.com",
+    "phone": "+31612345678",
+    "address": [
+      {
+        "number": 7,
+        "street": "Danzigerkade",
+        "city": "Amsterdam",
+        "zipcode": "1234 AB"
+      }
+    ]
+  }
+]
